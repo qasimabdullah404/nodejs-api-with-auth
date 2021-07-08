@@ -1,0 +1,25 @@
+{
+  "name": "api-with-jwt-auth",
+  "version": "1.0.0",
+  "description": "Basic NodeJs API with JWT authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qasimabdullah404/nodejs-api-with-auth.git"
+  },
+  "author": "Qasim Abdullah <qasimabdullah404@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qasimabdullah404/nodejs-api-with-auth/issues"
+  },
+  "homepage": "https://github.com/qasimabdullah404/nodejs-api-with-auth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
